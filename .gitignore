@@ -37,4 +37,4 @@ override.tf.json
 terraform.rc
 
 # Ignore the working_copy directory
-working_copy/
+# working_copy/
